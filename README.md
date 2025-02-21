@@ -33,7 +33,7 @@
    
     ```shell
 
-    python app.py -i 0.0.0.0 -o 8080
+    python app.py 
 
     ```
 
