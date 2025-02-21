@@ -1,7 +1,7 @@
 # Asl Sign Language Recognition using flask and opencv
 
 
-
+This project aims to detect American Sign Language (ASL) hand gestures corresponding to the numbers 0-9 and the alphabets A-Z. It uses machine learning techniques to recognize hand gestures and translate them into text, providing an interactive experience with chatbot support for queries and troubleshooting.
 
 
 ### Screenshots
@@ -9,7 +9,7 @@
 ![image2](./static/images/image2.png)
 ![image3](./static/images/image3.png)
 ![image4](./static/images/image4.png)
-![image5](./static/images/image5.png)
+
 ![image6](./static/images/image6.png)
 
 # Setup 
